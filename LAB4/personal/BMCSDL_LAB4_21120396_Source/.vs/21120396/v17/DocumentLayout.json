@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|d:\\b\u1EA3o m\u1EADt csdl\\bmcsdl_lab4_21120396_source\\lab4_person\\nhanvienaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\nhanvienaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\connectsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\connectsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\dsnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\dsnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\dsnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\dsnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\NhanVien_Action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\nhanvienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\tblnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\tblnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\AES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\dsnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\dsnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\lab4_person\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAA0BEE-34EF-408E-8234-D7FE286EB42F}|Lab4_person\\Lab4_person.csproj|solutionrelative:lab4_person\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DSNhanVien.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\DSNhanVien.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\DSNhanVien.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\DSNhanVien.cs",
+              "RelativeToolTip": "Lab4_person\\DSNhanVien.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:06:45.178Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien_Action.cs",
+              "DocumentMoniker": "C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\NhanVien_Action.cs",
+              "ToolTip": "C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\NhanVien_Action.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:04:16.122Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AES.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\AES.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\AES.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\AES.cs",
+              "RelativeToolTip": "Lab4_person\\AES.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:54:08.495Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DSNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\DSNhanVien.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\DSNhanVien.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\21120396\\Lab4_person\\DSNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\21120396\\Lab4_person\\DSNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectSQL.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\ConnectSQL.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\ConnectSQL.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\ConnectSQL.cs",
+              "RelativeToolTip": "Lab4_person\\ConnectSQL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:07:18.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienAccess.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\NhanVienAccess.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\NhanVienAccess.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\NhanVienAccess.cs",
+              "RelativeToolTip": "Lab4_person\\NhanVienAccess.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwHAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:42:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVienBLL.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\NhanVienBLL.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\NhanVienBLL.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\NhanVienBLL.cs",
+              "RelativeToolTip": "Lab4_person\\NhanVienBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:43:08.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\packages.config",
+              "RelativeDocumentMoniker": "Lab4_person\\packages.config",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\packages.config",
+              "RelativeToolTip": "Lab4_person\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T16:54:11.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\Form1.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Form1.cs",
+              "RelativeToolTip": "Lab4_person\\Form1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:52:02.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\Form1.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\21120396\\Lab4_person\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\21120396\\Lab4_person\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:51:20.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\Program.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Program.cs",
+              "RelativeToolTip": "Lab4_person\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:44:52.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tblNhanVien.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\tblNhanVien.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\tblNhanVien.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\tblNhanVien.cs",
+              "RelativeToolTip": "Lab4_person\\tblNhanVien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:43:41.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AES.cs",
+              "DocumentMoniker": "C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\AES.cs",
+              "ToolTip": "C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\AES.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBZwCwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:05:05.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DSNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\DSNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\DSNhanVien.Designer.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\DSNhanVien.Designer.cs",
+              "RelativeToolTip": "Lab4_person\\DSNhanVien.Designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAArwFcAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:07:23.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\Form1.cs",
+              "ToolTip": "C:\\Users\\ngiau\\Downloads\\Lab4\\Lab4\\Lab4\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwB0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:54:22.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4_person\\Form1.Designer.cs",
+              "ToolTip": "D:\\B\u1EA3o M\u1EADt CSDL\\BMCSDL_LAB4_21120396_Source\\Lab4_person\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab4_person\\Form1.Designer.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAiwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:44:38.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
